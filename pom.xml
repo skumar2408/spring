@@ -51,6 +51,7 @@
 			</plugin>
 		</plugins>
                 <finalName>webapp</finalName>
+<>
 	</build>
 
 </project>
